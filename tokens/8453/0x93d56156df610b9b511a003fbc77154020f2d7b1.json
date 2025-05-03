@@ -1,0 +1,8 @@
+{
+  "name": "Red Coin",
+  "symbol": "RED",
+  "decimals": 18,
+  "address": "0x93d56156df610b9b511a003fbc77154020f2d7b1",
+  "chainId": 8453,
+  "logoURI": "https://raw.githubusercontent.com/majindk/red-landingpage/main/logo.png"
+}
